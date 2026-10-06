@@ -109,6 +109,7 @@
 - [MAREF](https://github.com/maref-org/maref) - Governance-first agent runtime for securing agentic AI: TLA+-verified Gray Code governance state machine, per-agent Ed25519 identity, Merkle audit chain. Covers all 10 OWASP Top 10 for Agentic Applications (ASI01-ASI10) risks with an in-repo claim-to-code mapping.
 - [Microsoft AutoGen](https://github.com/microsoft/autogen) - Framework for orchestrating multi-agent systems, enabling collaborative AI agents for complex cybersecurity and automation tasks.
 - [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Context-aware agentic AI framework for integrating semantic reasoning and automation in security operations.
+- [OpenAmer](https://github.com/openamer/openamer) - Apache-2.0, Windows-native agent runtime with an in-process cognition core (think/learn/remember/trigger/heartbeat), reusable skills, and a peer-to-peer A2A mesh between instances. Runs fully local.
 
 ## Datasets
 - [CICIDS 2017/2018](https://www.unb.ca/cic/datasets/) - Realistic network traffic datasets with labeled attacks for developing and benchmarking agentic cybersecurity solutions.
